@@ -1,4 +1,4 @@
-# University-Projects
+# University
 
 Projects that I developed during my studies for the Bachelor's Degree.
 
