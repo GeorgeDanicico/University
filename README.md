@@ -1,5 +1,7 @@
 # University-Projects
 
+Projects that I developed during my studies for the Bachelor's Degree.
+
 # First Year
 
 1. <a href="https://github.com/GeorgeDanicico/Fundamentals-of-Programming-Year1">Fundamentals of Programming(Python) </a>
