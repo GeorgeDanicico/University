@@ -13,9 +13,9 @@ Projects that I developed during my studies for the Bachelor's Degree.
 7. <a href="https://github.com/GeorgeDanicico/Computer_Networks_Year2">Computer Networks </a>
 8. <a href="https://github.com/GeorgeDanicico/Databases-Year2">Databases </a>
 9. <a href="https://github.com/GeorgeDanicico/Functional-and-Logic-Programming_Year2">Functional and Logic Programming</a>
-10.<a href="https://github.com/GeorgeDanicico/Artificial-Intelligence-Year2">Artificial Intelligence</a>
-11.<a href="https://github.com/GeorgeDanicico/Web-Programming-Year2">Web Programming</a>
-12.<a href="https://github.com/GeorgeDanicico/Database-Management-Systems-Year2">Database Management Systems</a>
-13.<a href="https://github.com/GeorgeDanicico/SDI-Year2">Software Design and Implementation</a>
+10. <a href="https://github.com/GeorgeDanicico/Artificial-Intelligence-Year2">Artificial Intelligence</a>
+11. <a href="https://github.com/GeorgeDanicico/Web-Programming-Year2">Web Programming</a>
+12. <a href="https://github.com/GeorgeDanicico/Database-Management-Systems-Year2">Database Management Systems</a>
+13. <a href="https://github.com/GeorgeDanicico/SDI-Year2">Software Design and Implementation</a>
 
 
